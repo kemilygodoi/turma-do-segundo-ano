@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+h1{
+    font-size: 55px;
+}
 .cabecalho {
     background-color:#83EE8E;
     color: #000000;
@@ -31,4 +37,7 @@
 
 .escola-div-conteudo{
     width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
 }
